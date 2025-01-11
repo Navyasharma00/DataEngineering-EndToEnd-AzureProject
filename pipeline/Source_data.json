@@ -186,7 +186,10 @@
 				"outputs": [
 					{
 						"referenceName": "ds_sqldb",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"Table_name": "car_sales_data"
+						}
 					}
 				]
 			}
