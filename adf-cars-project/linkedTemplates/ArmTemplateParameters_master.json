@@ -5,17 +5,14 @@
 		"factoryName": {
 			"value": "adf-cars-project"
 		},
-		"HttpServer1_password": {
-			"value": ""
-		},
 		"AzureSqlDatabase1_password": {
 			"value": ""
 		},
-		"HttpServer1_properties_typeProperties_url": {
-			"value": "https://raw.githubusercontent.com"
+		"HttpServer1_password": {
+			"value": ""
 		},
-		"HttpServer1_properties_typeProperties_userName": {
-			"value": "sqladmin"
+		"ls_gen2_accountKey": {
+			"value": ""
 		},
 		"AzureSqlDatabase1_properties_typeProperties_server": {
 			"value": "fsqlserver.database.windows.net"
@@ -25,6 +22,15 @@
 		},
 		"AzureSqlDatabase1_properties_typeProperties_userName": {
 			"value": "sqladmin"
+		},
+		"HttpServer1_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
+		},
+		"HttpServer1_properties_typeProperties_userName": {
+			"value": "sqladmin"
+		},
+		"ls_gen2_properties_typeProperties_url": {
+			"value": "https://datalakesa3012.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"value": ""
